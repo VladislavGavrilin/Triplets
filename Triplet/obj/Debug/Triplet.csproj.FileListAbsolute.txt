@@ -1,0 +1,6 @@
+c:\users\user.user-pc\documents\visual studio 2013\Projects\Triplet\Triplet\bin\Debug\Triplet.exe.config
+c:\users\user.user-pc\documents\visual studio 2013\Projects\Triplet\Triplet\bin\Debug\Triplet.exe
+c:\users\user.user-pc\documents\visual studio 2013\Projects\Triplet\Triplet\bin\Debug\Triplet.pdb
+c:\users\user.user-pc\documents\visual studio 2013\Projects\Triplet\Triplet\obj\Debug\Triplet.csprojResolveAssemblyReference.cache
+c:\users\user.user-pc\documents\visual studio 2013\Projects\Triplet\Triplet\obj\Debug\Triplet.exe
+c:\users\user.user-pc\documents\visual studio 2013\Projects\Triplet\Triplet\obj\Debug\Triplet.pdb
